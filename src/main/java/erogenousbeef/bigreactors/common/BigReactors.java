@@ -827,6 +827,7 @@ public class BigReactors {
 		ReactorInterior.registerBlock("blockEmerald",		0.55f, 0.85f, 1.50f, IHeatEntity.conductivityEmerald);
 		ReactorInterior.registerBlock("blockGraphite",	0.10f, 0.50f, 2.00f, IHeatEntity.conductivityGold); // Graphite: a great moderator!
 		ReactorInterior.registerBlock("blockGlassColorless", 0.20f, 0.25f, 1.10f, IHeatEntity.conductivityGlass);
+		ReactorInterior.registerBlock("blockGlass", 0.20f, 0.25f, 1.10f, IHeatEntity.conductivityGlass);
 		ReactorInterior.registerBlock("blockIce",			0.33f, 0.33f, 1.15f, IHeatEntity.conductivityWater);
 		ReactorInterior.registerBlock("blockSnow",		0.15f, 0.33f, 1.05f, IHeatEntity.conductivityWater / 2f);
 		
